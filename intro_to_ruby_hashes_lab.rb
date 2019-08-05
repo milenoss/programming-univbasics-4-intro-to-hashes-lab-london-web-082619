@@ -12,12 +12,12 @@ end
 
 def pioneer
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
- hash = {:name => 'GraceHopper'}
+ hash = {:name => 'Grace Hopper'}
 end
 
 def id_generator
   # return a hash with a key :id assigned to positive integer
-  hash = {:id => Integer}
+  hash = {:id => 10 }
 end
 
 def my_hash_creator(key, value)
