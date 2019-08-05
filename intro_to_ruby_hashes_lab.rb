@@ -42,5 +42,6 @@ if hash[key]
 else
   hash[key] = 1
  end
+ return updated hash
 end
 
